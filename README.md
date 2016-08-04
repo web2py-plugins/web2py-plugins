@@ -2,14 +2,14 @@
 Web2py plugins - unofficial repository
 
 ## How to install plugins
-Web2py plugins are historically published on http://www.web2pyslices.com and this is integrated with Web2py admin (application Edit, Download plugins from repository). However there were some problems with maintenance and use of web2pyslices.com and that led to not very useful plugins list on that site.
+Web2py plugins are historically published on http://www.web2pyslices.com and this is integrated with Web2py admin interface (application Edit, Download plugins from repository). However there were some problems with maintenance and use of web2pyslices.com and that led to not very useful plugins list on that site.
 
 If you found Web2py plugin on other place, like in this github repository, you can **download it** and **install in Web2py admin interface**: **application Edit, Upload plugin**.
 
 ## How is the web2py-plugins account and this repository (web2py-plugins/web2py-plugins) organized
-This is main repository for packed plugins (.w2p). In addition we create repositories for source code of single plugins if author wishes use such repositories.
+web2py-plugins/web2py-plugins is main repository for packed plugins (.w2p). In addition we create repositories for source code of plugins if author wishes use such repositories for the source code.
 
-In this repo in **root** directory we have plugins with some known maintenance and documentation. In **found/** directory we have everything found on the internet without nuch knowledge about author, download page, functionality, .. So please google for more info, documentation and newer versions about such plugins.
+In this repo in **root** directory we have plugins with some known maintenance and documentation. In **found/** directory we have everything found on the internet without much knowledge about author, download page, functionality, .. So please google for more info, documentation and newer versions about such plugins.
 
 ## Published plugins
 
