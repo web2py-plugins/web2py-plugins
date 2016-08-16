@@ -16,6 +16,10 @@ In this repo in **root** directory we have plugins with some known maintenance a
 - ``plugin_CKEDITOR``, v1.2 (ckeditor 4.5.7 Feb 2016), https://github.com/timrichardson/web2py_ckeditor4
 - ``plugin_MANAGE_GROUPS``, v1.0, https://github.com/web2py-plugins/plugin_manage_groups
 
+### found/
+
+- ``plugin_wiki`` is sure OBSOLETE, use controller with: return auth.wiki()
+
 ## Help improve this page
 Send **pull request** with plugin made by you or with missing found/ plugin. If you are the author and if you add the plugin into root directory, we will create a repository for plugin sources and create access rights for you.
 
