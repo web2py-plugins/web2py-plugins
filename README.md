@@ -14,7 +14,6 @@ In this repo in **root** directory we have plugins with some known maintenance a
 ## Published plugins
 
 - ``plugin_MANAGE_GROUPS``
-- ``plugin_SPLINTER``
 
 ## Help improve this page
 Send **pull request** with plugin made by you or with missing found/ plugin. If you are the author and if you add the plugin into root directory, we will create a repository for plugin sources and create access rights for you.
