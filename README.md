@@ -13,7 +13,8 @@ In this repo in **root** directory we have plugins with some known maintenance a
 
 ## Published plugins
 
-- ``plugin_MANAGE_GROUPS``
+- ``plugin_CKEDITOR`` https://github.com/timrichardson/web2py_ckeditor4
+- ``plugin_MANAGE_GROUPS`` https://github.com/web2py-plugins/plugin_manage_groups
 
 ## Help improve this page
 Send **pull request** with plugin made by you or with missing found/ plugin. If you are the author and if you add the plugin into root directory, we will create a repository for plugin sources and create access rights for you.
