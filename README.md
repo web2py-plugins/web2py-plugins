@@ -14,6 +14,7 @@ In this repo in **root** directory we have plugins with some known maintenance a
 ## Published plugins
 
 - ``plugin_CKEDITOR``, v1.2 (ckeditor 4.5.7 Feb 2016), https://github.com/timrichardson/web2py_ckeditor4
+- ``plugin_AUTHMAN``, Authorization Management Plugin for web2py v1.0, https://github.com/bradermacher/web2py-plugin-authman
 - ``plugin_MANAGE_GROUPS``, v1.0, https://github.com/web2py-plugins/plugin_manage_groups
 - ``plugin_MOBILELAYOUT``, v1.0, example: used in https://github.com/zvolsky/krepo
  -- ommits bootstrap and selectively adds w3.css, vue.js, jquery, calendar, web2py (i.e. ajax support), see README in view/plugin_mobilelayout
